@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
 
 :root {
     --primary-color:#6D28D9;
@@ -36,10 +37,21 @@ hr {
     color:white;
 }
 
+.link-para {
+    text-decoration: none;
+    color:var(--primary-color);
+}
+
 .link-secondary {
     color: var(--primary-color);
     border: 1px solid var(--primary-color);
     border-radius: 0.5rem;
+}
+
+.link-center {
+    text-align:center;
+    margin:auto;
+    padding: 1rem 0;
 }
 
 .list-non-bullet {
@@ -136,4 +148,8 @@ footer {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+.footer .link {
+    padding: 0.5rem;    
 }
