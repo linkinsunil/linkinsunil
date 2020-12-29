@@ -154,16 +154,6 @@ footer {
     padding: 0.5rem;    
 }
 
-/* .frost {
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
-    box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
-    filter: blur(5px);
-} */
-
 .frost {
     border: 2px solid var(--dark-gray);
     border-radius: 2rem;
