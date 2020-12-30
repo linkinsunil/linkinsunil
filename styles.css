@@ -17,8 +17,8 @@ hr {
 }
 
 .container {
-    padding: 1rem 1rem;
-}
+    padding: 0rem 1rem 2rem;
+} 
 
 .container-center {
     max-width: 600px;
