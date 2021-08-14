@@ -94,7 +94,7 @@ hr {
 /* header */
 
 .hero {
-    padding: 2rem;
+    padding: 2rem 0rem 0rem;
 }
 
 .hero .hero-img {
