@@ -163,7 +163,7 @@ footer {
 
 .frost {
     border: 2px solid var(--dark-gray);
-    border-radius: 2rem;
+    border-radius: 1rem;
 }
 
 .li-padding {
