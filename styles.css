@@ -23,6 +23,7 @@ hr {
 .container-center {
     max-width: 600px;
     margin: auto;
+    margin-top: 2.5rem;
 }
 
 .link {
