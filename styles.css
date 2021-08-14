@@ -59,6 +59,10 @@ hr {
     list-style: none;
 }
 
+ul .list-non-bullet{
+    padding-top: 0rem;
+}
+
 .list-item-inline {
     display: inline;
     padding: 0rem 0.5rem;
@@ -136,7 +140,7 @@ h1.title{
 
 /* footer */
 
-footer {
+.footer {
     background-color: var(--primary-color);
     padding: 2rem 1rem;
     text-align: center;
