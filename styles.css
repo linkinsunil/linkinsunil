@@ -130,6 +130,10 @@ hr {
     padding-top: 1rem;
 }
 
+.title{
+    padding-bottom: .5rem;
+}
+
 /* footer */
 
 footer {
