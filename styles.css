@@ -170,7 +170,6 @@ footer {
     padding:1rem 0rem;
 }
 
-section .badge {
+.profile-badge {
     margin: auto;
-    display:block;
 }
