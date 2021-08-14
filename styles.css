@@ -172,4 +172,5 @@ footer {
 
 section .badge {
     margin: auto;
+    display:block;
 }
