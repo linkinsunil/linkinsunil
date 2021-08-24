@@ -59,10 +59,10 @@ hr {
     list-style: none;
 }
 
-/* ul {
+ul {
     padding-inline-start: 1rem;
-    margin: 1rem;
-} */
+    padding-inline-end: 1rem;
+}
 
 .list-item-inline {
     display: inline;
