@@ -16,11 +16,7 @@
 
 <!-- Github Profile -->
 
-<<<<<<< HEAD
-![Lines of code](https://img.shields.io/tokei/lines/github/linkinsunil/linkinsunil?label=lines-of-code)
-=======
 ![Lines of code](https://img.shields.io/tokei/lines/github/linkinsunil/linkinsunil.github.io?label=lines-of-code)
->>>>>>> 0636d132a12b53408f75a43ac3b5d144eff39e2a
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=linkinsunil.linkinsunil)
 ![GitHub followers](https://img.shields.io/github/followers/linkinsunil?style=social)
@@ -97,17 +93,6 @@
 *Made with* ❤ *by [Sunil Vishwakarma][linkedin]*
 
 <!-- ![GitHub labels](https://img.shields.io/github/labels/linkinsunil/linkinsunil/This%20Repo?color=%2384CC16) -->
-<<<<<<< HEAD
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/linkinsunil/linkinsunil)
-![GitHub last commit](https://img.shields.io/github/last-commit/linkinsunil/linkinsunil)
-![GitHub language count](https://img.shields.io/github/languages/count/linkinsunil/linkinsunil)
-![GitHub top language](https://img.shields.io/github/languages/top/linkinsunil/linkinsunil)
-![GitHub contributors](https://img.shields.io/github/contributors-anon/linkinsunil/linkinsunil)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/linkinsunil/linkinsunil)
-![GitHub repo size](https://img.shields.io/github/repo-size/linkinsunil/linkinsunil)
-
-[website]: https://linkinsunil.netlify.app
-=======
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/linkinsunil/linkinsunil.github.io)
 ![GitHub last commit](https://img.shields.io/github/last-commit/linkinsunil/linkinsunil.github.io)
 ![GitHub language count](https://img.shields.io/github/languages/count/linkinsunil/linkinsunil.github.io)
@@ -117,7 +102,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/linkinsunil/linkinsunil.github.io)
 
 [website]: https://linkinsunil.github.io
->>>>>>> 0636d132a12b53408f75a43ac3b5d144eff39e2a
 [twitter]: https://twitter.com/officialskv
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/linkinsunil
