@@ -12,7 +12,8 @@
 <kbd>[![Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=flat&logo=About.me&logoColor=white)](https://linkinsunil.netlify.app)</kbd>
 <kbd>[![Discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/5wH6MVwA)</kbd>
 <kbd>[![Gmail Badge](https://img.shields.io/badge/-sunilnet4@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:sunilnet4@gmail.com)](mailto:sunilnet4@gmail.com)</kbd>
-<kbd>[![Gmail Badge](https://img.shields.io/badge/WorldOfCoders-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/worldofcoders)](https://t.me/worldofcoders)</kbd>
+<kbd>[![Telegram Badge](https://img.shields.io/badge/WorldOfCoders-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/worldofcoders)](https://t.me/worldofcoders)</kbd>
+<kbd>[![Hashnode](https://img.shields.io/badge/-linkinsunil%20blog-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/)</kbd>
 
 <!-- Github Profile -->
 
