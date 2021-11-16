@@ -69,9 +69,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- OOJS - Object Oriented JavaScript - Part 1 <kbd>[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/oojs-object-oriented-javascript-part-1)</kbd>
-- Beginner Essentials - I : Important Git Commands <kbd>[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/beginner-essentials-i-important-git-commands)</kbd>
-- Beginner Essentials - II : Important VSCode Shortcuts <kbd>[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/beginner-essentials-ii-important-vscode-shortcuts)</kbd>
+- OOJS - Object Oriented JavaScript - Blog Series <kbd>[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/series/object-oriented-js-oojs)</kbd>
+- Developer Essentials You Can't Ignore - Blog Series <kbd>[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/series/developer-essentials)</kbd>
+
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
