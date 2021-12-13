@@ -34,10 +34,10 @@
 </div>
 
 ⚡ I'm a self taught developer
-- 🔜 Exploring ReactJs 
-- 🚾 I’m looking for mentorship 🤝
-- 🔂 2021 Goals #1: Contribute to Open Source projects
-- 🔂 2021 Goals #2: Building full-stack side projects
+- 🔜 Exploring JavaScript
+- 🚾 Blog posts | Tweets & Linkedin posts | Discord community 
+- 🔂 2022 Goals #1: Contribute to Open Source projects
+- 🔂 2022 Goals #2: Continue to make resourceful content throughout the year and beyond
 
 ---
 
