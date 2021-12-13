@@ -10,7 +10,7 @@
 <kbd>[![Linkedin](https://img.shields.io/badge/-linknisunil-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/linkinsunil/)](https://www.linkedin.com/in/linkinsunil/)</kbd>
 <kbd>[![Instagram](https://img.shields.io/badge/-linkinsunil-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/linkinsunil/)](https://instagram.com/linkinsunil)</kbd>
 <kbd>[![Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=flat&logo=About.me&logoColor=white)](https://linkinsunil.github.io)</kbd>
-<kbd>[![Discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/Je3AyGqhY5)</kbd>
+<kbd>[![Discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/Z7ceAcgqTd)</kbd>
 <kbd>[![Gmail Badge](https://img.shields.io/badge/-sunilnet4@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:sunilnet4@gmail.com)](mailto:sunilnet4@gmail.com)</kbd>
 <kbd>[![Telegram Badge](https://img.shields.io/badge/WorldOfCoders-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/worldofcoders)](https://t.me/worldofcoders)</kbd>
 <kbd>[![Hashnode](https://img.shields.io/badge/-linkinsunil%20blog-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/)</kbd>
@@ -114,4 +114,4 @@
 [instagram]: https://instagram.com/linkinsunil
 [linkedin]: https://www.linkedin.com/in/linkinsunil/
 [blog]: https://linkinsunil.hashnode.dev
-[discord]: https://discord.gg/Je3AyGqhY5
+[discord]: https://discord.gg/Z7ceAcgqTd
