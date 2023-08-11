@@ -36,8 +36,7 @@
 ⚡ I'm a self taught developer
 - 🔜 Exploring JavaScript
 - 🚾 [Blog posts][blog] | [Tweets][twitter] & [Linkedin posts][linkedin] | [Discord community][discord] 
-- 🔂 2022 Goals #1: Contribute to Open Source projects
-- 🔂 2022 Goals #2: Continue to make resourceful content throughout the year and beyond
+- 🔂 2023 Goals #2: Continue to make resourceful content throughout the year and beyond
 
 ---
 
