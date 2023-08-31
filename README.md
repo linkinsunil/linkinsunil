@@ -1,10 +1,7 @@
-<head>
-  <meta name="google-site-verification" content="MGh7tcvU2S56_HPF2iV_mMveDk4FpnJ53AoX94aea-8" />
-</head>
-
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Sunil Vishwakarma - aka [linkinsunil][linkedin] 
  
 <!-- Social -->
+⚡ Quick connect with me 👇
 
 <kbd>[![Twitter Followers](https://img.shields.io/twitter/follow/sunil?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinkinsunil&screen_name=linkinsunil)</kbd>
 <kbd>[![Linkedin](https://img.shields.io/badge/-linknisunil-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/linkinsunil/)](https://www.linkedin.com/in/linkinsunil/)</kbd>
@@ -12,20 +9,16 @@
 <kbd>[![Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=flat&logo=About.me&logoColor=white)](https://linkinsunil.github.io)</kbd>
 <kbd>[![Discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.gg/Z7ceAcgqTd)</kbd>
 <kbd>[![Gmail Badge](https://img.shields.io/badge/-sunilnet4@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:sunilnet4@gmail.com)](mailto:sunilnet4@gmail.com)</kbd>
-<kbd>[![Telegram Badge](https://img.shields.io/badge/WorldOfCoders-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/worldofcoders)](https://t.me/worldofcoders)</kbd>
+<kbd>[![Telegram Badge](https://img.shields.io/badge/NotesBySunil-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/worldofcoders)](https://telegram.me/NotesBySunil)</kbd>
 <kbd>[![Hashnode](https://img.shields.io/badge/-linkinsunil%20blog-2962FF?logo=hashnode&logoColor=white)](https://linkinsunil.hashnode.dev/)</kbd>
 
-<!-- Github Profile -->
+<br>
 
-![Lines of code](https://img.shields.io/tokei/lines/github/linkinsunil/linkinsunil.github.io?label=lines-of-code)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=linkinsunil.linkinsunil)
+<!-- Github Profile -->
+⚡ Github Metrics 👇
+
 ![GitHub followers](https://img.shields.io/github/followers/linkinsunil?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/linkinsunil?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
-
-<!-- [![Website](https://img.shields.io/website?label=portfolio&style=&url=https%3A%2F%2Flinkinsunil.netlify.app)](https://linkinsunil.netlify.app) -->
-<!-- ![GitHub labels](https://img.shields.io/github/labels/linkinsunil/linkinsunil/Help%20Wanted?color=%2384CC16) -->
-<!-- ![GitHub followers](https://img.shields.io/github/followers/linkinsunil?style=social) -->
 
 ## I'm a <Frontend-dev💻/> 
 
