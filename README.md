@@ -34,23 +34,28 @@
 ---
 
 🔥 Languages and Tools:
-  
+
+![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=flat&logo=Express&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Markdown](https://img.shields.io/badge/-Markdown-181717?logo=markdown&logoColor=white)
-![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-181717?logo=markdown&logoColor=white)
 
 ---
 
 ### 🏆 Recent Certifications
 
 <!-- CERTIFICATION:START -->
-<kbd>[![JS](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/linkinsunil/responsive-web-design)</kbd>
+<kbd>[![RWD](https://img.shields.io/badge/FreeCodeCamp_Responsive_Web_Design-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/linkinsunil/responsive-web-design)</kbd>
+<kbd>[![JS](https://img.shields.io/badge/HackerRank_JavaScript-00EA64?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/436f2139af9a)</kbd>
+<kbd>[![CSS](https://img.shields.io/badge/HackerRank_CSS-00EA64?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/d270d9502b77)</kbd>
 
 <!-- CERTIFICATION:END -->
 
